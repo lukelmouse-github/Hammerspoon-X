@@ -10,7 +10,7 @@ Mac 上的快捷指令
 
 ### **配置**
 
-![image-20210604205614991](/Users/jiangjia/Documents/Projects/Hammerspoon-X/README.assets/image-20210604205614991.png)
+![image-20210604205614991](/README.assets/image-20210604205614991.png)
 
 
 
