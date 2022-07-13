@@ -20,9 +20,9 @@ Mac 上的快捷指令
 
 ### **快捷键**
 
-默认组合键 mash =「Control + Option + Command」
+默认组合键 `mash =「Control + Option + Command」`
 
-当前窗口全屏     `mash + m`
+当前窗口全屏   `mash + m`
 
 当前窗口最大化 `mash + l`
 
