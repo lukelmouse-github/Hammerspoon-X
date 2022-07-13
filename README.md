@@ -4,7 +4,7 @@ Mac 上的快捷指令
 
 ### **Hammerspoon安装**
 
- `brew install hammerspoon`
+ `brew install --cask hammerspoon`
 
 
 
