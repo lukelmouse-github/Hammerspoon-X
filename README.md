@@ -5,6 +5,9 @@ Mac 上的快捷指令
 ### **Hammerspoon安装**
 
  `brew install --cask hammerspoon`
+ 
+ 或者去官网
+ https://github.com/Hammerspoon/hammerspoon/releases/tag/0.9.97
 
 
 
