@@ -17,7 +17,7 @@ Mac 上的快捷指令
 
 
 
-把项目中的 `init.lua` 复制到 Config 里面即可
+把本仓库中的 `init.lua` 复制到 单击 `Open Config` 后的 `init.lua` （目前这个是空的）  里面，直接覆盖即可
 
 
 
